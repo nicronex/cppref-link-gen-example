@@ -28,7 +28,7 @@ std::string genLink(std::string keywrd){
     }
     for(auto& tmp : strr){
       if(l_keywrd == tmp){
-        rslt = "stringr";
+        rslt = "string";
       }
     }
     for(auto& tmp : threadd){
